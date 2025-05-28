@@ -18,3 +18,6 @@ Shwas leverages modern Jetpack libraries to deliver a clean, maintainable, and r
 - Offline-first design
 - Type-safe navigation model
 - Voice-guided meditation flows
+
+https://github.com/user-attachments/assets/aa6f6326-edfc-4640-a90a-85229a40b188
+

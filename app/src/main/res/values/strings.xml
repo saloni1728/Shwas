@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Shwas</string>
+    <string name="choose_language">Choose your Language...</string>
+    <string name="language">English</string>
+    <string name="language_english">English</string>
+    <string name="language_hindi">Hindi</string>
+    <string name="continue_text">Continue</string>
+    <string name="search_placeholder">Search breathing exercises...</string>
+    <string name="practice_text">How to practice:</string>
+    <string name="search" tools:ignore="MissingTranslation">Search</string>
+    <string name="clear_search" tools:ignore="MissingTranslation">Clear Search</string>
+    <string name="pause" tools:ignore="MissingTranslation">Pause</string>
+    <string name="play" tools:ignore="MissingTranslation">Play</string>
+    <string name="fav" tools:ignore="MissingTranslation">Favorite</string>
+    <string name="back" tools:ignore="MissingTranslation">Back</string>
+    <string name="stop" tools:ignore="MissingTranslation">STOP</string>
+</resources>
